@@ -116,12 +116,12 @@
   },
   "version": {
     "android": {
-      "clientVersion": "2.7.01",
-      "resVersion": "26-02-12-13-45-20_d44b0c"
+      "clientVersion": "2.7.91",
+      "resVersion": "26-11-06-12-56-09-07186384"
     },
     "windows": {
-      "clientVersion":"2.7.01",
-      "resVersion":"26-02-06-13-36-34_a73b7c"
+      "clientVersion": "2.7.01",
+      "resVersion": "26-02-06-13-36-34_a73b7c"
     }
   },
   "versionGlobal": {
